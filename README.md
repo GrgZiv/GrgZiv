@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Grgur! Check out my projects below!</h1>
 
-<!--
-**GrgZiv/GrgZiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Frontend</b>
+  - [Udemy React Course](https://github.com/GrgZiv/Udemy_React_Course)
+  - [React Youtube Clone](https://github.com/GrgZiv/React_Youtube_Clone)
+  - [TikTok Clone](https://github.com/GrgZiv/TikTok_clone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Backend</b>
+  - [Udemy Spring Course Web Application](https://github.com/GrgZiv/spring5webapp)
+  - [Udemy Spring Course Pet Clinic](https://github.com/GrgZiv/sfg-pet-clinic)
+  - [NodeJs Simple App](https://github.com/GrgZiv/Node_JS_API)
+
+<h2>🤖 Data Science Projects:</h2>
+
+  - [Science Article Project](https://github.com/GrgZiv/Science_Article_Project/tree/main)
+  - [Stock Market Data Analysis](https://github.com/GrgZiv/Stock_Market_Data_Analysis)
+  - [Car Prices Prediction](https://github.com/GrgZiv/Car_Prices_Prediction)
+  - [Network Analysis](https://github.com/GrgZiv/Network-Analysis)
