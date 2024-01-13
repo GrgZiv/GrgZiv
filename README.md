@@ -18,3 +18,4 @@
   - [Stock Market Data Analysis](https://github.com/GrgZiv/Stock_Market_Data_Analysis)
   - [Car Prices Prediction](https://github.com/GrgZiv/Car_Prices_Prediction)
   - [Network Analysis](https://github.com/GrgZiv/Network-Analysis)
+  - [GPT Lecture](https://github.com/GrgZiv/Karpathy_GPT_lecture)
